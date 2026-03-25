@@ -1,0 +1,5 @@
+Modulos a trabajar:
+    estudiantes 
+    roles y deberes 
+    permisos 
+    
